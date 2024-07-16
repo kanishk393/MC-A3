@@ -1,4 +1,4 @@
-# 📱 Mobile Computing - Winter 2024 Assignment 3
+# 📱 Sensor Detection And Image Classification APP
 
 ## 🚀 Sensing and Native Code
 
