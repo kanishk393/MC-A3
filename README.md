@@ -91,16 +91,6 @@ The project consists of two main components:
 - AndroidX libraries
 - TensorFlow Lite
 
-Add the following to your app's `build.gradle`:
-
-```gradle
-dependencies {
-    implementation 'org.tensorflow:tensorflow-lite:2.8.0'
-    implementation 'org.tensorflow:tensorflow-lite-support:0.4.0'
-    implementation 'org.tensorflow:tensorflow-lite-metadata:0.4.0'
-}
-```
-
 ## 🏭 Build and Deployment
 
 This project can be built and deployed using Android Studio. Ensure you have the latest version of Android Studio and the Android SDK installed.
