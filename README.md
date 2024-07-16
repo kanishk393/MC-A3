@@ -1,4 +1,4 @@
-# 📱 Sensor Detection And Image Classification APP
+# 📱 Sensor Data And Image Classification APP
 
 ## 🚀 Sensing and Native Code
 
