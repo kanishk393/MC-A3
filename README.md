@@ -25,7 +25,7 @@ This repository contains the implementation for the Mobile Computing Winter 2024
 The project consists of two main components:
 
 1. **Accelerometer Data Collection and Analysis App**
-2. **TensorFlow Lite Image Classification**
+2. **TensorFlow Lite Image Classification App**
 
 ## ✨ Features
 
